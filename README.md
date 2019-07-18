@@ -3,20 +3,6 @@
 ## Voici l’explication et les règles de ce jeu, d’après Wikipédia :
 Il se joue sur un plateau unicolore de 64 cases, 8 sur 8. Les joueurs disposent de 64 pions bicolores, noirs d'un côté et blancs de l'autre. En début de partie, quatre pions sont déjà placés au centre du plateau dans la position suivante :
 
-<code>
-
-  1 2 3 4 5 6 7 8
-1 · · · · · · · ·
-2 · · · · · · · ·
-3 · · · · · · · ·
-4 · · · o ● · · ·
-5 · · · ● o · · ·
-6 · · · · · · · ·
-7 · · · · · · · ·
-8 · · · · · · · ·
-
-</code>
-
 -> http://www.ffothello.org/othello/regles-du-jeu/
 
 Chaque joueur, noir et blanc, pose l'un après l'autre un pion de sa couleur sur le plateau de jeu selon des règles précises. Le jeu s'arrête quand les deux joueurs ne peuvent plus poser de pion. On compte alors le nombre de pions. Le joueur ayant le plus grand nombre de pions de sa couleur sur le plateau a gagné.
